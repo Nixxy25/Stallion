@@ -16,7 +16,7 @@ export default function FooterPage() {
                     <Image src='/devicon_twitter.svg' alt="twitter" width={30} height={30} className="max-sm:w-6 cursor-pointer"/>
                 </Link>
                 
-                <Link href="https://discord.gg/qWDMnUWw" target="_blank" rel="noopener noreferrer" className="cursor-pointer">
+                <Link href="https://discord.gg/a6uyqHms" target="_blank" rel="noopener noreferrer" className="cursor-pointer">
                     <Image src='/Vector.svg' alt="discord" width={30} height={30} className="max-sm:w-6"/>
                 </Link>
             </div>
